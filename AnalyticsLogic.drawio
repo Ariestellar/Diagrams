@@ -1,1 +1,119 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T13:42:43.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="15.7.3" etag="f78d9RtJzpsCqr9cqWA5" type="github"><diagram id="6jWYDhghBJeLlx4K1rds">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-18T16:14:57.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="DtdCGWKoEtel2efRTq_S" version="15.7.3" type="github">
+  <diagram id="6jWYDhghBJeLlx4K1rds" name="Page-1">
+    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4ZyUh-tgX4LWx3c46FkT-1" target="4ZyUh-tgX4LWx3c46FkT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-1" value="Пользователь вошел в приложение" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4ZyUh-tgX4LWx3c46FkT-2" target="4ZyUh-tgX4LWx3c46FkT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-2" value="SpawnMenu&lt;br&gt;(нет логики)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ZyUh-tgX4LWx3c46FkT-3" target="4ZyUh-tgX4LWx3c46FkT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-3" value="MainScene" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ZyUh-tgX4LWx3c46FkT-7" target="4ZyUh-tgX4LWx3c46FkT-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=10;" edge="1" parent="1" source="4ZyUh-tgX4LWx3c46FkT-7" target="4ZyUh-tgX4LWx3c46FkT-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-7" value="Пользователь зашёл в приложение первый раз?&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=11;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ZyUh-tgX4LWx3c46FkT-13" target="4ZyUh-tgX4LWx3c46FkT-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-13" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Создаем директорию с именем пользователя на клиенте и на ftp сервере&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-17" value="ДА" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="4ZyUh-tgX4LWx3c46FkT-18" target="4ZyUh-tgX4LWx3c46FkT-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="4ZyUh-tgX4LWx3c46FkT-18" target="4ZyUh-tgX4LWx3c46FkT-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-18" value="Есть ли на клиенте файлы в директории для аналитики?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="510" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-21" value="&lt;font style=&quot;font-size: 12px&quot;&gt;НЕТ&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="520" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=11;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ZyUh-tgX4LWx3c46FkT-22" target="4ZyUh-tgX4LWx3c46FkT-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-22" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Отправляем их на сервер и удаляем из директории для аналитики на клиенте&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="353.5" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-25" value="ДА" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="450" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="4ZyUh-tgX4LWx3c46FkT-26" target="4ZyUh-tgX4LWx3c46FkT-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-26" value="Ничего не делаем" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="660" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-29" value="НЕТ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="640" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="4ZyUh-tgX4LWx3c46FkT-30" target="4ZyUh-tgX4LWx3c46FkT-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414.01" y="650" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-30" value="Пользователь переходит в конкретный тренажер&lt;br&gt;(Нет логики)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="353.5" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="4ZyUh-tgX4LWx3c46FkT-38" target="4ZyUh-tgX4LWx3c46FkT-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-38" value="Пользователь выбирает режим прохождения (Создаем файлик для записи)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="354" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="4ZyUh-tgX4LWx3c46FkT-124" target="4ZyUh-tgX4LWx3c46FkT-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-124" value="Пользователь завершает шаг или совершает ошибку&lt;br style=&quot;font-size: 11px;&quot;&gt;(Пишем в файлик название шага/ошибки и время затраченное на его прохождение/время от начала прохождения тренажера до ошибки)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="300.63" y="710" width="226.75" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="4ZyUh-tgX4LWx3c46FkT-127" target="4ZyUh-tgX4LWx3c46FkT-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=11;" edge="1" parent="1" source="4ZyUh-tgX4LWx3c46FkT-127" target="4ZyUh-tgX4LWx3c46FkT-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-127" value="Пользователь завершает работу с тренажером" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="354.01" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-132" value="Файл созданный при старте тренажера передается на сервер и удаляется с клиента" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="140" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-133" value="Файл созданный при старте тренажера не будет передан на сервер и не удалится" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="570" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-136" value="Положительный сценарий. С помощью кнопки &quot;Выход&quot;, &quot;Начать заново&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="200" y="823" width="144.68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZyUh-tgX4LWx3c46FkT-141" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Неожиданным завершением. Кончился заряд , снятие шлема, выход в киоск и.т.д&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="474.01" y="823" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
